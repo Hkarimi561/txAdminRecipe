@@ -66,11 +66,6 @@ tasks:
     src: https://github.com/qbcore-framework/progressbar
 
   - action: download_github
-    dest: ./resources/[standalone]/interact-sound
-    ref: master
-    src: https://github.com/qbcore-framework/interact-sound
-
-  - action: download_github
     dest: ./resources/[standalone]/connectqueue
     ref: master
     src: https://github.com/qbcore-framework/connectqueue
